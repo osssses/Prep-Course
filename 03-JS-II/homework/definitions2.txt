@@ -1,0 +1,7 @@
+for = sirve para crear un loop que ejecutara una linea de codigo hasta que se cumpla la condicion establecida
+
+&& = es un operador que indica que todas condiciones establecidas deben ser verdaderas
+
+|| = es un operador que indica que alguna de las condiciones establecidas debe ser verdadera
+
+! = significa lo contrario del booleano que la precede
