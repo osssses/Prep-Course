@@ -1,0 +1,12 @@
+variables = en las variables guardamos informacion que luego usaremos en nuestro codigo
+
+strings = un string es cualquier conjunto de caracteres (letras o numeros) que este encerrado entre comillas
+
+funciones = nos permiten agrupar codigo para invocarlo mas tarde. las funciones admiten argumentos que se usaran 
+            para ejecutar el codigo en su interior. para devolver los datos del interior de una funcion usamos la
+            declaracion return. ademas, tambien la usamos para cortar la ejecucion del codigo.
+
+if = las declaraciones if verifican si lo que que se pasa es true, y si lo es, ejecuta unas lineas de codigo, si no 
+     lo es, se le puede pasar otras lineas de codigo que corran si se pasa false
+     
+booleanos = los booleanos provienen de una logica binaria, con dos opciones, true o false, 1 o 0. 
