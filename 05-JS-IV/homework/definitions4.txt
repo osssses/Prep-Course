@@ -1,0 +1,13 @@
+objetos : los objetos son una coleccion de propiedades.
+
+propiedades : son asociaciones entre un nombre, o key, y un valor que se le da a este.
+
+metodos : las funciones que estan guardadas dentro de un objetos se llaman metodos. (.push, .length)
+
+bucles for...in : para iterar sobre cada key value de nuestro objeto usamos los bucles for...in, ya que no tenemos
+                indices numericos, usamos la palabra clave 'in' para que se recorra cada key del objeto y finalice
+                cuando se hayan iterado todas las key.
+
+notacion de puntos vs notacion de corchetes : la notacion de puntos es mas facil de leer, por lo tanto, usada mas 
+                                                frecuentemente. la notacion de corchetes tiene menos limitaciones
+                                                en cuanto a caracteres, y acepta variables.
