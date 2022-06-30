@@ -1,0 +1,2 @@
+arrays: los arrays son una lista de elementos, los elementos pueden ser de tipo strings, numeros, booleanos, etc.
+        Se definen dentro de una variable y se establewcen dentro de corchetes [] separados por coma.
