@@ -1,0 +1,4 @@
+prototype : es una forma de establecer un metodo y dar acceso a los objetos de la clase a esos metodos
+
+constructor : un constructor se usa para heredar propiedades de otras clases, si le hacemos un call dentro de otro
+                constructor, este heredara sus propiedades, sirve para no repetir codigo
